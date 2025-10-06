@@ -6,7 +6,7 @@
 }
 
 :root {
-  --primary-color: #c6c3c3;
+  --primary-color: #c6c3c3;   
   --second-color: #ffffff;
   --black-color: #000000;
 }
