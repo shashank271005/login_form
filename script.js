@@ -10,7 +10,7 @@
   --second-color: #ffffff;
   --black-color: #000000;
 }
-
+   
 body {
   background-image: url("https://codingstella.com/wp-content/uploads/2024/01/download-6-scaled.jpeg");
   background-position: center;
